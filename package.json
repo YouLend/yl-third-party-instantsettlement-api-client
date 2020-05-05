@@ -1,9 +1,9 @@
 {
   "name": "yl-third-party-instantsettlement-api-client",
-  "version": "v1.0",
+  "version": "1.0.1",
   "description": "Through this API you can create Instant Settlement transactions with YouLend",
   "license": "MT",
-  "repository": "https://github.com/YouLend/yl-third-party-instantsettlement-api-client.git" ,
+  "repository": "https://github.com/YouLend/yl-third-party-instantsettlement-api-client.git",
   "main": "dist/index.js",
   "scripts": {
     "build": "babel src -d dist",
